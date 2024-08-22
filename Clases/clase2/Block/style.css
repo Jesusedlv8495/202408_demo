@@ -1,0 +1,8 @@
+p {
+    background-color: blue;
+    padding: 10px;
+    width: 100px;
+    display: inline-block; /*oye quiero que tú dejes espacio pero no pierdas tus propuedasdes de ser bloque*/
+    vertical-align: top; /*es decirle pa dónde va lo prioritario*/
+    min-height: 200px;
+}

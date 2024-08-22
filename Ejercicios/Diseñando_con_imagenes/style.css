@@ -1,0 +1,39 @@
+* {
+    padding: 20px;
+}
+
+img {
+    width: 20%;
+    height: 10%;
+}
+
+h1 {
+    text-align: center;
+}
+
+.Primera {
+    display: flex;
+    justify-content: space-between;
+    background-color: yellow;
+}
+
+.Segunda {
+    display: flex;
+    justify-content: space-around;
+    background-color: aqua;
+}
+
+.Tercera {
+    display: flex;
+    justify-content: space-between;
+    background-color: red;
+}
+
+.Pie {
+    height: 50px;
+    background-color: greenyellow;
+    display: flex;
+    align-items: center; /* Centra verticalmente el h1 dentro de Pie */
+    justify-content: center; /* Centra horizontalmente el h1 dentro de Pie */
+    padding: 0;
+    }
