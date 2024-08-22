@@ -11,4 +11,4 @@ En html, por defecto tienen un posicionamiento estático
 Posicionamiento absoluto: 
 
 # GIT
-
+Git init: inicializa la carpetap
